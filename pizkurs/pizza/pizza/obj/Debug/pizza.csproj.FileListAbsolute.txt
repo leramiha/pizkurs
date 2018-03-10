@@ -1,0 +1,14 @@
+c:\users\даня\documents\visual studio 2015\Projects\pizza\pizza\bin\Debug\pizza.exe.config
+c:\users\даня\documents\visual studio 2015\Projects\pizza\pizza\bin\Debug\pizza.exe
+c:\users\даня\documents\visual studio 2015\Projects\pizza\pizza\bin\Debug\pizza.pdb
+c:\users\даня\documents\visual studio 2015\Projects\pizza\pizza\obj\Debug\pizza.csprojResolveAssemblyReference.cache
+c:\users\даня\documents\visual studio 2015\Projects\pizza\pizza\obj\Debug\MainWindow.g.cs
+c:\users\даня\documents\visual studio 2015\Projects\pizza\pizza\obj\Debug\App.g.cs
+c:\users\даня\documents\visual studio 2015\Projects\pizza\pizza\obj\Debug\pizza_MarkupCompile.cache
+c:\users\даня\documents\visual studio 2015\Projects\pizza\pizza\obj\Debug\pizza_MarkupCompile.lref
+c:\users\даня\documents\visual studio 2015\Projects\pizza\pizza\obj\Debug\MainWindow.baml
+c:\users\даня\documents\visual studio 2015\Projects\pizza\pizza\obj\Debug\pizza.g.resources
+c:\users\даня\documents\visual studio 2015\Projects\pizza\pizza\obj\Debug\pizza.Properties.Resources.resources
+c:\users\даня\documents\visual studio 2015\Projects\pizza\pizza\obj\Debug\pizza.csproj.GenerateResource.Cache
+c:\users\даня\documents\visual studio 2015\Projects\pizza\pizza\obj\Debug\pizza.exe
+c:\users\даня\documents\visual studio 2015\Projects\pizza\pizza\obj\Debug\pizza.pdb
